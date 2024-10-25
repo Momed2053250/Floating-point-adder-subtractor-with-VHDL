@@ -1,0 +1,16 @@
+v 4
+file . "fp_adder_tb.vhd" "ef8b6736a9b5529fd4bf9ed3584886a318108405" "20230709191435.481":
+  entity fp_adder_tb at 1( 0) + 0 on 65;
+  architecture test of fp_adder_tb at 8( 110) + 0 on 66;
+file . "subtractor.vhd" "e379232e687e7215f27a120669f46eb8a991e356" "20230704093018.547":
+  entity four_bit_subtractor at 1( 0) + 0 on 13;
+  architecture behavioral of four_bit_subtractor at 15( 312) + 0 on 14;
+file . "fp_adder.vhd" "57804f18197ab9608aba24699f2d351043ba1203" "20230709191432.335":
+  entity fp_adder at 1( 0) + 0 on 63;
+  architecture mixed of fp_adder at 16( 908) + 0 on 64;
+file . "exp_subtractor.vhd" "98ffea35a652793d1276beed5c93218436c68e3d" "20230704100858.087":
+  entity four_bit_adder at 1( 0) + 0 on 25;
+  architecture behavioral of four_bit_adder at 15( 293) + 0 on 26;
+file . "signed_subtractor.vhd" "1c31792344f4ef71e8844abff11fa105f0c8721c" "20230704122054.116":
+  entity signed_subtractor at 1( 0) + 0 on 41;
+  architecture behavioral of signed_subtractor at 15( 275) + 0 on 42;
